@@ -1,3 +1,7 @@
+#' ---
+#' output: github_document
+#' ---
+
 ## create a data frame of your installed packages
 ## hint: installed.packages() is the function you need
 
