@@ -7,3 +7,5 @@ plusone <- function(x){
   r
 }
 plusone(2)
+
+a <- 1:3
