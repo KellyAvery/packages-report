@@ -9,3 +9,5 @@ plusone <- function(x){
 plusone(2)
 
 a <- 1:3
+
+# A comment added on GitHub
